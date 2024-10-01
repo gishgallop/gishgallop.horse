@@ -8,5 +8,5 @@ identify and counter it.
 ## TODOs
 
 * SEO
-* Spread the word
+* Spread the word!
 * Code refactors
