@@ -88,7 +88,11 @@ export default function Home() {
             </p>
           </div>
           <div>
-            <video className="video w-full" controls>
+            <video
+              className="video w-full"
+              controls
+              poster="/assets/video/example3-thumb.png"
+            >
               <source src="/assets/video/example3.mp4" type="video/mp4" />
               Your browser does not support the video tag.
             </video>
