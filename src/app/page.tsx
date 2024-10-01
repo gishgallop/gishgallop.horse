@@ -82,6 +82,7 @@ export default function Home() {
               <a
                 className="text-teal-400"
                 href="https://www.tiktok.com/@scitimewithtracy"
+                target="_blank"
               >
                 @scitimewithtracy
               </a>
@@ -101,6 +102,7 @@ export default function Home() {
               <a
                 className="text-teal-400"
                 href="https://www.tiktok.com/@scitimewithtracy"
+                target="_blank"
               >
                 @scitimewithtracy
               </a>
@@ -120,6 +122,7 @@ export default function Home() {
               <a
                 className="text-teal-400"
                 href="https://www.tiktok.com/@scitimewithtracy"
+                target="_blank"
               >
                 @scitimewithtracy
               </a>
@@ -139,6 +142,7 @@ export default function Home() {
               <a
                 className="text-teal-400"
                 href="https://www.tiktok.com/@scitimewithtracy"
+                target="_blank"
               >
                 @scitimewithtracy
               </a>
@@ -190,6 +194,7 @@ export default function Home() {
             <a
               className="text-teal-400"
               href="https://sketchplanations.com/the-bs-asymmetry-principle"
+              target="_blank"
             >
               Sketchplanations
             </a>
